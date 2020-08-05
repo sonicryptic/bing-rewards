@@ -1,10 +1,10 @@
 # bing-rewards
 
-A simple Bing rewards spammer.
-Url: [https://sonicryptic.github.io/bing-rewards](https://sonicryptic.github.io/bing-rewards).
-Alternative url: [https://microsoft-rewards.surge.sh](https://microsoft-rewards.surge.sh).
+A simple Bing rewards spammer.  
+This tool allows you to make multiple bing requests using random words retrieved from [Random word API](https://random-word-api.herokuapp.com/).  
 
-This tool allows you to make multiple bing requests using random words retrieved from [Random word API](https://random-word-api.herokuapp.com/).
+Url: [https://sonicryptic.github.io/bing-rewards](https://sonicryptic.github.io/bing-rewards).  
+Alternative url: [https://microsoft-rewards.surge.sh](https://microsoft-rewards.surge.sh).  
 
 # Prerequisites
 
