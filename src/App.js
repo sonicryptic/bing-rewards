@@ -1,7 +1,7 @@
 import { COUNTRIES } from "./dictionary";
 import React from "react";
 import Terminal from "terminal-in-react";
-import microsoft from "./microsoft.gif";
+import microsoft from "./microsoft-min.png";
 import styled from "styled-components";
 
 const DEFAULT_NUMBER_OF_SEARCHES = 10;
@@ -24,6 +24,7 @@ const Header = styled.header`
 const Logo = styled.img`
   pointer-events: none;
   max-width: 90%;
+  margin-top: 2em;
 `;
 
 const App = () => {
