@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bing-rewards/static/css/main.5ecd60fb.chunk.css",
+    "main.css": "/bing-rewards/static/css/main.69eda509.chunk.css",
     "main.js": "/bing-rewards/static/js/main.05387419.chunk.js",
     "main.js.map": "/bing-rewards/static/js/main.05387419.chunk.js.map",
     "runtime-main.js": "/bing-rewards/static/js/runtime-main.aa156cd8.js",
@@ -8,15 +8,15 @@
     "static/js/2.aaac930e.chunk.js": "/bing-rewards/static/js/2.aaac930e.chunk.js",
     "static/js/2.aaac930e.chunk.js.map": "/bing-rewards/static/js/2.aaac930e.chunk.js.map",
     "index.html": "/bing-rewards/index.html",
-    "precache-manifest.25178c798f698964ac8942f42d68a731.js": "/bing-rewards/precache-manifest.25178c798f698964ac8942f42d68a731.js",
+    "precache-manifest.9aa4f0eeb9b47a71a0113c005fd2a83f.js": "/bing-rewards/precache-manifest.9aa4f0eeb9b47a71a0113c005fd2a83f.js",
     "service-worker.js": "/bing-rewards/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/bing-rewards/static/css/main.5ecd60fb.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/bing-rewards/static/css/main.69eda509.chunk.css.map",
     "static/js/2.aaac930e.chunk.js.LICENSE.txt": "/bing-rewards/static/js/2.aaac930e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aa156cd8.js",
     "static/js/2.aaac930e.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
+    "static/css/main.69eda509.chunk.css",
     "static/js/main.05387419.chunk.js"
   ]
 }
